@@ -1,33 +1,34 @@
-OX##XXXXXXXXX#XOOOOoooooOOO#######X#00###XXXXX##XX##OoOOOOX########XX####X#############0000000000000
-OO#0000000###X##XXXXXXXX##########XX######XXXXX##X##OoOoOO#0###########################0000000000000
-XOX####XXXXXOOOOOOOOXX####00000#000###XX##XXXX#XXO##OoOoOO#0################0###########000000000000
-XXXX#XXXXXXXXXXOOOoooX0###0#XXXXX######0###XXX0#####XXXXXX##########X#######0X###########00000000000
-OOX##XXXOOOXXXXXXXXOX#0###Ooxxxx++xo#########OOOXX###############XXX#####################00000000000
-XXX0000#XOOX##XXXXOOX#X##OooOoox++++#########OoOXX#####XXX#######XXX################0000000000000000
-#XXXX#0##0####XoooOO#XoooxooX#ooOXXOOOOX#XOOOOOOOOOOOOOooooooooooooooOXXXX########XXXX##XXXXXXXXXXXX
-OXXOooOOOX######XoOX##Ooxxxxxoo+oOOoox+++oOXOx++++xoOOooOOoooooOOO#OxOXXXX########XXXXXOOOOOOOOOOX##
-OXOXoOOOOXXX#########00#xxxxoOOOoxOXoxx+++xxxox+++*++x*+xx. ````.x#OxXX##XXXX####O+x++xx*o+x*xxo+OX#
-OOO##########XXX###0##0#xxxxxoOOOO##Xxx+*****+xxx+******+x`     `x#OoXX##########xxx+oox+oox+ooOxX##
-XOO#00000#####XXXX#0000XxxxxxooOX0##0#XOox++***********+Ox.`````.o#OOXX##########OXOoOOoOOOoOOOOoX##
-#XO#0##0000000######00##XOoooOO00###XXXX###XXOox+++**++oox+++x+xxO#oOX##0###X####xooxooxoooxoooooX##
-##XX############0000#XXXXXXOOOoX#0#XOOOOOOOXXX####XOoxoxoxxxooxxoX#oXX###0##X####xxxxxxxxxxxxxxx+X##
-###OOOX#XX#X#######00#XOooooxx+'+o####XXOOOOOOOO#0000#oxxxxxoxxxoX#oXX#0##X#X####XXXXXOOOOOOOOO+*X##
-###XXXX#XXXXX########X##o++xx+**'.'O##0#0###XX#X#####XoxOOOOOOOXXX#oOOXXX#XXXX#X#X#################0
-XXOOXX##X###XX000#X###XOOO*xo+**x++*xXXOX#000000#####XOxoOOOOOOOOOXooOOoOXX##XXOXXXXXXXXXXXXXXXXO#0#
-XXOXX#X###X#0#X#000#X##XOOOoxoxx'x+**x#XOO##000000##00##X##XXXXXXXXOooooooO#############XXXXXXXXX###
-XOXXXXXX#####00###00#XX##XO#Xxx***++**o0XXXXX#00000000##0XXXOoOOOXX#XXOOXX###00000000000000######OXX
-XXX###XXX####000###00#XXX#XX0Xxox+'+*+*##XXXX#000000#####XOooooOOOX#####OOoox+xOOOXXX####00000000XXX
-OOOXXX####0###0000#X#00#####X0#oooox*+*O0#X###00000######XXXXOOoooxoooOXXXXXXOooOOOXX#####0000000XXX
-XOOOOXXX##000###000#X#00#000#X#o+OXOox+O00#####0000000#####XXXXXXXXXXXX#####0000##XX#00XXOX#####XOOX
-OOOXX#XOOOX#0#####X#X#000####X##xxOo+xOOO#0####000000##############XXXXXX####0000000000#X########XX#
-XXX#XoxxoOO##X####0#X##OxooOOOX##oxox*xo+x00###000000000###############XXOOooooOOXX#0##X#XXXXXXX####
-XXX#oxx+OoxxxooOOX#00#OoooX####0XooooooxxxO00###0000000000000####XXXXX#######XXXOOO###0000######X#X#
-##XXOxxxxOxoooooOXoOXX###0###0#OOOXXXXXOooo#00###00000000000000000##########################00000000
-#X##0#OxxoOo#00000####X#00##0##XX#XX###XXOoxX00##00000000000000000000000###########################0
-0#X#00XoooOOoO0############0#XX#X##0###XOxx++O#0#0000000000000000000000000000000####################
-00#X#XOOOXXXOO#0XX#0##XOOXXXXX#######oOOox+xxx+oOO#0000000000000000000000000000000000000000000000000
-###XXOOOOXXX#X#0###0#######XXXXX#XXXXoxooxxoxx+++++xoOX#00000000000000000000000000000000000000000000
-XXX#XOOOOOOOOOo00X#00000000####X#####Oxxxxxxx+++++++++++xxoOX##0000000000000000000000000000000000000
-XXXXOXXOXXOXoOOX0Xo0##00#0###########x+++xoxxxxxxxxx++++++++++xxoX##00000000#00000000000000000000000
-XXXXX#XoOooOOOOO00###xoOOOXOOOoooxooOxxxxxoOooooooooooooooooxxxx+++xxoOX#000#00000000000000000000000
-#####XoxxoOOoXOO#000XxooOOXXXXXXXOooxxooOOX#####XOOXXXOOOOOooooxxxxx++++xxoO#00000000000000000000000
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOOoooxxxxxxx++++******'''''.......````````     
+@@@@@00000000#######XXXXXXXOOox+**+++xxxoooOOox+**'''''''.......````````     
+@@@@@00000000#######XXXXXOx*'.''***++xxxooOOOXXXXOx*'''''.......````````     
+@@@@@00000000#######XXXO+.`...''***++xxxooOOOXXX##0#o''''.......````````     
+@@@@@00000000#######XXo.``...'''***++xxxooOOOXXX###00#+''.......````````     
+@@@@@00000000########+ ```...'''***++xxxooOOOXXX###0000x........````````     
+@@@@@00000000#######x  ```...'''***++xxxooOOOXXX###000@@+.......````````     
+@@@@@00000000######X. ````...'''***++xxxooOOOXXX###0000@#'......````````     
+@@@@@00000000######O  ````...'''***++xxxooOOOXXX###0000@@*......````````     
+@@@@@00000000######O  ````...'''***++xxxooOOOXXX###0000@@*......````````     
+@@@@@00000000######X. ````...'''***++xxxooOOOXXX###0000@#'......````````     
+@@@@@00000000#######x  ```...'''***++xxxooOOOXXX###000@@+.......````````     
+@@@@@00000000########+ ```...'''***++xxxooOOOXXX###0000x........````````     
+@@@@@00000000#######XXx.``...'''***++xxxooOOOXXX###00#+''.......````````     
+@@@@@00000000#######XXXO+.`..'''***++xxxooOOOXXX##0#o*'''.......````````     
+@@@@@00000000#######XXXXXOx*'.''***++xxxooOOOXX#XOx*'''''.......````````     
+@@@@@00000000#######XXXXXXXOox++***++xxxoooOOoox+*'''''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooxxxxxxxxx+++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
+@@@@@00000000#######XXXXXOOOOOOoooooxxxxx+++++******'''''.......````````     
