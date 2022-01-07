@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/photo_to_txt.iml" filepath="$PROJECT_DIR$/.idea/photo_to_txt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Img-to-txt.iml" filepath="$PROJECT_DIR$/.idea/Img-to-txt.iml" />
     </modules>
   </component>
 </project>

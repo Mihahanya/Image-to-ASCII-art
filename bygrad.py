@@ -8,13 +8,15 @@ width = int(input('Width: '))
 print('Processing...')
 
 img = Image.open(path_to_img)
-img = img.resize((width, int(img.size[1]/img.size[0]*width)//2))
+img = img.resize(( width, int(img.size[1]/img.size[0]*width / (18/8)) ))
 pix = np.asarray(img.convert('L'))
 
-gradient = ' .:!/r(l1Z4H9W8$@'
-#gradient = ' .+*xX#'
+#gradient = ' .:!/r(l1Z4H9W8$@'
+#gradient = ' `:,!*zTY]kGm%NQ@'
+gradient = ' `.\'*+xoOX#0@'
+#gradient = ' ░▒▓█'
 l = len(gradient)-1
-f = open('res.txt', 'w')
+f = open('res.txt', 'w', encoding="utf-8")
 
 for y in range(img.size[1]):
     for x in range(img.size[0]):
