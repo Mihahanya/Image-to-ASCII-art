@@ -8,37 +8,36 @@ width = int(input('Width: '))
 
 print('Processing...')
 
-pw = 8
-ph = 16
+PW = 8
+PH = 16
 
 img = Image.open(path_to_img)
-img = img.resize((width*pw, int(img.size[1]/img.size[0]*width)//2 * ph))
+img = img.resize((width*PW, int(img.size[1]/img.size[0]*width / (18/8)) * PH))
 pix = np.asarray(img.convert('L'))
 
 h = pix.shape[0]
 w = pix.shape[1]
 
-patterns = []
 tones = []
-p_dir = 'imgs/'
+p_dir = 's/'
 
 for i in range(95):
     p = np.asarray(Image.open(p_dir + str(i) + '.png').convert('L'))
-    patterns.append(p)
 
-    tones.append(p.sum() / pw / ph)
+    tones.append(p.sum() / PW / PH)
 
-patterns = np.array(patterns)
+tones -= min(tones)
+tones *= 255/max(tones)
 tones = np.array(tones)
 
 gradient = '1234567890~`!@#$%^&*()-=_+{}[]:";\'<>?,./\\|qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM '
 
 @njit
 def check_pattern(pat):
-    ps = pat.sum() / pw / ph
+    ps = pat.sum() / PW / PH
     it = 0
     min_d = 256
-    for i in range(len(patterns)):
+    for i in range(len(tones)):
         d = abs(tones[i] - ps)
         if d < min_d:
             min_d = d
@@ -47,9 +46,9 @@ def check_pattern(pat):
 
 f = open('res.txt', 'w')
 
-for y in range(ph, h, ph):
-    for x in range(pw, w, pw):
-        part = pix[y-ph:y, x-pw:x]
+for y in range(PH, h, PH):
+    for x in range(PW, w, PW):
+        part = pix[y-PH:y, x-PW:x]
         r = check_pattern(part)
         f.write(gradient[r])
     f.write('\n')

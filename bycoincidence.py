@@ -8,32 +8,38 @@ width = int(input('Width: '))
 
 print('Processing...')
 
-pw = 8
-ph = 16
+PW = 8
+PH = 16
 
 img = Image.open(path_to_img)
-img = img.resize((width*pw, int(img.size[1]/img.size[0]*width)//2 * ph))
+img = img.resize((width*PW, int(img.size[1]/img.size[0]*width / (18/8)) * PH))
 pix = np.asarray(img.convert('L'))
 
 h = pix.shape[0]
 w = pix.shape[1]
 
-#gradient = '1234567890~`!@#$%^&*()-=_+{}[]:";\'<>?,./\\|qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM '
-gradient = '0~#^*()-=_+[]:"\'<>,./\|oxOXV '
+gradient = '1234567890~`!@#$%^&*()-=_+{}[]:";\'<>?,./\\|qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM '
+#gradient = '0~#^*()-=_+[]:"\'<>,./\|oxOXV '
 
 patterns = []
-p_dir = 'fig/'
-for i in range(2, len(gradient)):
+p_dir = 'sb/'
+for i in range(len(gradient)):
     p = np.asarray(Image.open(p_dir + str(i) + '.png').convert('L'))
     patterns.append(p)
-patterns = np.array(patterns)
+
+p = np.array(patterns).flatten()
+
+patterns = np.array(patterns, dtype='float64')
+patterns -= np.full((PH, PW), min(p))
+patterns *= np.full((PH, PW), 255/max(p))
 
 @njit(fastmath=True)
 def difference(a, b):
     d = 0
-    for y in range(ph):
-        for x in range(pw):
+    for y in range(PH):
+        for x in range(PW):
             d += (a[y, x] - b[y, x])**2
+            #d += abs(a[y, x] - b[y, x])
     return d**0.5
 
 @njit
@@ -49,9 +55,9 @@ def check_pattern(pat):
 
 f = open('res.txt', 'w')
 
-for y in range(ph, h, ph):
-    for x in range(pw, w, pw):
-        part = pix[y-ph:y, x-pw:x]
+for y in range(PH, h, PH):
+    for x in range(PW, w, PW):
+        part = pix[y-PH:y, x-PW:x]
         r = check_pattern(part)
         f.write(gradient[r])
     f.write('\n')
