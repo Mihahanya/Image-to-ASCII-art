@@ -3,34 +3,31 @@ from PIL import Image
 import sys, os
 from numba import njit
 
+from gradient import *
+
 path_to_img = sys.argv[1] if len(sys.argv) != 1 else input('Path to image: ')
 width = int(input('Width: '))
 
 print('Processing...')
 
-PW = 8
-PH = 16
+PW, PH = 8, 16
 
 img = Image.open(path_to_img)
 img = img.resize((width*PW, int(img.size[1]/img.size[0]*width / (18/8)) * PH))
 pix = np.asarray(img.convert('L'))
 
-h = pix.shape[0]
-w = pix.shape[1]
+h, w = pix.shape[0], pix.shape[1]
 
+# Getting tone of every symbol by average brightness
+symb_dir = 'symbols_img/'
 tones = []
-p_dir = 's/'
-
 for i in range(95):
-    p = np.asarray(Image.open(p_dir + str(i) + '.png').convert('L'))
-
+    p = np.asarray(Image.open(symb_dir + str(i) + '.png').convert('L'))
     tones.append(p.sum() / PW / PH)
 
 tones -= min(tones)
 tones *= 255/max(tones)
 tones = np.array(tones)
-
-gradient = '1234567890~`!@#$%^&*()-=_+{}[]:";\'<>?,./\\|qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM '
 
 @njit
 def check_pattern(pat):

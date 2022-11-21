@@ -5,14 +5,254 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68386a18-5ecd-43ad-9794-9aee1df5e29b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bycoincidence.py" beforeDir="false" afterPath="$PROJECT_DIR$/bycoincidence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytone.py" beforeDir="false" afterPath="$PROJECT_DIR$/by_tone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/test/4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/64.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/66.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/66.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/67.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/67.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/68.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/69.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/69.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/70.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/71.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/72.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/73.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/73.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/74.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/75.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/76.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/77.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/77.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/78.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/78.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/79.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/79.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/80.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/81.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/81.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/82.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/82.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/83.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/83.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/84.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/84.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/85.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/85.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/86.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/86.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/87.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/88.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/88.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/89.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/89.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/90.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/90.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/91.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/91.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/92.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/92.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/93.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/93.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s/94.png" beforeDir="false" afterPath="$PROJECT_DIR$/symbols_img/94.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/64.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/66.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/66.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/67.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/67.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/68.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/69.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/69.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/70.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/71.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/72.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/73.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/73.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/74.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/75.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/76.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/77.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/77.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/78.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/78.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/79.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/79.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/80.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/81.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/81.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/82.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/82.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/83.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/83.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/84.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/84.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/85.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/85.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/86.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/86.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/87.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/88.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/88.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/89.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/89.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/90.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/90.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/91.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/91.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/92.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/92.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/93.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/93.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb/94.png" beforeDir="false" afterPath="$PROJECT_DIR$/blurred_symbols/94.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr_of_litt.py" beforeDir="false" afterPath="$PROJECT_DIR$/screens and stats/update_symbols_imgs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ltrs.png" beforeDir="false" afterPath="$PROJECT_DIR$/screens and stats/symbols_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/screens and stats/symbols.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/screens and stats/stats.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/6.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +268,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.bytone">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\МОИ ПРОЕКТЫ\photo_to_txt\Img-to-txt\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.by_tone">
+    <configuration name="by_tone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Img-to-txt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\МОИ ПРОЕКТЫ\photo_to_txt\Img-to-txt\by_tone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bycoincidence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Img-to-txt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,27 +337,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bytone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Img-to-txt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bytone.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="scr_of_litt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Img-to-txt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +349,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr_of_litt.py" />
+      <option name="SCRIPT_NAME" value="D:\МОИ ПРОЕКТЫ\photo_to_txt\Img-to-txt\src\scr_of_litt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +360,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bytone" />
+        <item itemvalue="Python.by_tone" />
         <item itemvalue="Python.bycoincidence" />
         <item itemvalue="Python.scr_of_litt" />
         <item itemvalue="Python.bygrad" />

@@ -22,7 +22,7 @@ gradient = '1234567890~`!@#$%^&*()-=_+{}[]:";\'<>?,./\\|qwertyuiopasdfghjklzxcvb
 #gradient = '0~#^*()-=_+[]:"\'<>,./\|oxOXV '
 
 patterns = []
-p_dir = 'sb/'
+p_dir = 'blurred_symbols/'
 for i in range(len(gradient)):
     p = np.asarray(Image.open(p_dir + str(i) + '.png').convert('L'))
     patterns.append(p)
