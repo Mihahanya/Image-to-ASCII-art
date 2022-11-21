@@ -17,7 +17,7 @@ for i in range(len(symbols)):
     imgl = Image.fromarray(segment)
 
     # Blur images
-    imgl = imgl.filter(ImageFilter.GaussianBlur(radius=1))
+    imgl = imgl.filter(ImageFilter.GaussianBlur(radius=1.3))
 
     imgl.save(f'{direct}/{i}.png')
 
