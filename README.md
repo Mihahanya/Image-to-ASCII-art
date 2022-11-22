@@ -1,6 +1,8 @@
-# Image to ASCII art 
- 
+# Image to ASCII art
+
 In this repository presented are three algorithms for converting images to ASCII art.
+
+![](test_images/screenshot.png "Generated using by_similarity.py")
 
 `by_gradient.py`, it simply transposes the selected character gradient to the brightness of the image.
 
